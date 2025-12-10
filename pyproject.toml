@@ -1,0 +1,13 @@
+[project]
+name = "dqn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "flappy-bird-gymnasium>=0.4.0",
+    "gymnasium>=1.2.2",
+    "pyyaml>=6.0.3",
+    "tensorboard>=2.20.0",
+    "tensorflow>=2.20.0",
+]
